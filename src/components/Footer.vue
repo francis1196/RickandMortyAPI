@@ -48,7 +48,7 @@
         class="grey darken-2 py-4 text-center white--text"
         cols="12"
       >
-        {{ new Date().getFullYear() }} — <strong>Rick and Morty Api <small>by Francisco Reyes for DTT</small></strong>
+        {{ new Date().getFullYear() }} — <strong>Rick and Morty Api <small>by Francisco Reyes</small></strong>
       </v-col>
     </v-row>
   </v-footer>
